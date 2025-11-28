@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-broomandfar/)# 💫 About Me:
 Hi, I’m Navid, an applied AI engineer and automation architect focused on turning complex business problems into clean, intelligent systems. My experience blends data science, machine learning, analytics, CRM engineering, and end-to-end automation across real operational environments.<br><br>I enjoy designing AI workflows that think, adapt, and improve business processes from predictive models and cognitive automations to smart data pipelines.\<br>Always building, always experimenting, always leveling up.<br>
 
 
