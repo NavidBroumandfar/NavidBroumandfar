@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Navid 👋</h1>  
+<h3 align="center">Data Scientist & AI/ML Engineer | Entrepreneur</h3>  
 
-<!--
-**NavidBroumandfar/NavidBroumandfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔬 I’m currently working on building AI-powered automation systems and data pipelines.  
+- 👯 I’m looking to collaborate on applied machine learning and data-driven projects.  
+- 🤝 I’m looking for help with scaling AI deployments and startup strategies.  
+- 🌱 I’m currently learning advanced agentic reasoning, retrieval-augmented generation architectures, and Bayesian modeling.  
+- 🗫 Ask me about machine learning, data pipelines, automation, business intelligence, and startup strategy.  
+- ⚡️ Fun fact: I speak Persian, French, English, and Turkish and enjoy cross-cultural tech.  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools  
+Python · TypeScript · SQL · PyTorch · scikit-learn · LangChain · Pandas · NumPy · Tableau · Salesforce CRM · SAP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛋️ Connect with me  
+[LinkedIn](https://linkedin.com/in/navidbroumandfar) · [Email](mailto:navid.broumandfar@gmail.com)  
+
+### 🤝 Open to collaboration  
+I'm always interested in discussing AI automation, agentic architectures, applied ML, startup projects, and real-world data problems. Feel free to reach out! 
