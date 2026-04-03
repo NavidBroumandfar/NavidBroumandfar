@@ -1,22 +1,87 @@
 # 💫 About Me:
-Hi, I’m Navid, an applied AI engineer and automation architect focused on turning complex business problems into clean, intelligent systems.<br>My experience blends data science, machine learning, analytics, CRM engineering, and end-to-end automation across real operational environments.<br><br>I enjoy designing AI workflows that think, adapt, and improve business processes from predictive models and cognitive automations to smart data pipelines.<br>Always building, always experimenting, always leveling up.<br>
+# Hi, I'm Navid 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-broomandfar/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:broomandnavid@gmail.com) 
+**Applied AI • Workflow Automation • Decision Support**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+I design and prototype applied AI systems for automation, structured review, and decision support.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NavidBroumandfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NavidBroumandfar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidBroumandfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My background combines **data analysis, machine learning, workflow automation, and business systems work** in real operational environments. I’m especially interested in practical AI systems that combine **deterministic logic, language models, and traceability** to support review, anomaly detection, and decision-making.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NavidBroumandfar&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+My current work focuses on **agentic workflows, AI-assisted review systems, statistical decision support, and AWS-native orchestration with Amazon Bedrock**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NavidBroumandfar&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔎 Current Focus
+
+- AI-assisted review and validation workflows for structured business processes
+- Hybrid systems combining **rules + LLM reasoning**
+- Decision-support systems with **traceability and controlled behavior**
+- AWS-native multi-agent orchestration with **Amazon Bedrock**
+
+---
+
+## 📌 What You'll Find Here
+
+- Applied AI prototypes built around **real workflow problems**
+- LLM and agentic systems designed for **reliability and auditability**
+- Python-based tools for **structured review, validation, and analysis**
+- Projects at the intersection of **business processes, automation, and AI**
+
+---
+
+## 🚀 Featured Projects
+
+### [Bedrock CaseOps Control Tower](https://github.com/NavidBroumandfar/bedrock-caseops-control-tower)
+AWS-native multi-agent document review and escalation system using **Amazon Bedrock, Knowledge Bases, Lambda, and grounded evidence retrieval**.
+
+### [Agentic Excel Review Template](https://github.com/NavidBroumandfar/Agentic-Excel-Review-Template)
+Open-source template for building agentic AI workflows on top of structured Excel processes, with **LLM reasoning, RAG, JSONL logging, and safe review architecture**.
+
+### [StatAgent](https://github.com/NavidBroumandfar/statagent)
+Statistical decision-support project that helps guide method selection, analysis, and interpretation across classical and Bayesian workflows.
+
+### [AI Decision Traceability Engine](https://github.com/NavidBroumandfar/ai-decision-traceability-engine)
+Governed AI decision engine focused on **traceability, auditability, and explainability** for LLM-assisted workflows.
+
+---
+
+## 🧰 Core Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🤖 Applied AI / LLM Tooling
+
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Workflows-6A5ACD?style=for-the-badge)
+![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-Reliable%20AI-2E8B57?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-Orchestration-8A2BE2?style=for-the-badge)
+![JSONL Traceability](https://img.shields.io/badge/JSONL%20Traceability-Auditable%20Workflows-708090?style=for-the-badge)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-broomandfar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:broomandnavid@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NavidBroumandfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidBroumandfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
