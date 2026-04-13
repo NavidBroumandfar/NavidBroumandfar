@@ -66,4 +66,4 @@ My current work focuses on **agentic workflows, AI-assisted review systems, stat
 
 ---
 
-💼 **Open to roles in France/EU — Applied AI, Agentic AI Prototyping, Workflow Automation, Decision Support, and AI Business Analysis**
+💼 **Open to roles in France/EU — Applied AI, AI Product Management, Solutions Architecture, Workflow Automation, AI Decision Support, and AI Business Analysis**
