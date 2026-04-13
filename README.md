@@ -47,15 +47,15 @@ My current work focuses on **agentic workflows, AI-assisted review systems, stat
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](#)
-[![Amazon Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](#)
+[![Amazon Bedrock](https://img.shields.io/badge/Bedrock-1A2530?style=flat&logo=amazonaws&logoColor=FF9900)](#)
+[![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](#)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)](#)
-
-**LLM / AI Workflow Focus:** `Agentic Workflows` · `RAG` · `Structured Outputs` · `Prompt Engineering` · `Traceability` · `Human-in-the-Loop Review`
 
 ---
 
