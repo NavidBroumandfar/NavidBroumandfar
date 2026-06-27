@@ -4,6 +4,9 @@
 
 I design and prototype applied AI systems for automation, structured review, and decision support, with a growing focus on **agentic AI workflows and practical AI prototypes**.
 
+Public site: [NAVIDBR Applied AI Systems](https://navidbr.me) — approved Work,
+Notes, and public proof records by Navid.
+
 My background combines **data analysis, machine learning, workflow automation, and business systems work** in real operational environments. I’m especially interested in practical AI systems that combine **deterministic logic, language models, agentic orchestration, and traceability** to support review, anomaly detection, and decision-making.
 
 My current work focuses on **agentic workflows, AI-assisted review systems, statistical decision support, and AWS-native orchestration with Amazon Bedrock**.
@@ -33,6 +36,8 @@ My current work focuses on **agentic workflows, AI-assisted review systems, stat
 
 - [**Bedrock CaseOps Control Tower**](https://github.com/NavidBroumandfar/bedrock-caseops-control-tower) — AWS-native multi-agent document review and escalation system using **Amazon Bedrock, Knowledge Bases, Lambda, and grounded evidence retrieval**
 - [**Databricks CaseOps Lakehouse**](https://github.com/NavidBroumandfar/databricks-caseops-lakehouse) — Governed document-intelligence pipeline turning unstructured enterprise content into **structured, traceable, evaluation-ready AI assets**
+- [**Agent Behavior Evals Lab**](https://github.com/NavidBroumandfar/agent-behavior-evals-lab) — Policy-mapped evaluator for approval gates, refusal boundaries, uncertainty handling, and behavior regression evidence
+- [**E-commerce Purchase Intention MLOps**](https://github.com/NavidBroumandfar/ecommerce-purchase-intention-mlops) — Reproducible ML portfolio project for purchase-intention prediction with tests, API serving, and model lifecycle notes
 - [**Agentic Excel Review Template**](https://github.com/NavidBroumandfar/Agentic-Excel-Review-Template) — Open-source template for building agentic AI workflows on top of structured Excel processes, with **LLM reasoning, RAG, JSONL logging, and safe review architecture**
 - [**AI Decision Traceability Engine**](https://github.com/NavidBroumandfar/ai-decision-traceability-engine) — Governed AI decision engine focused on **traceability, auditability, and explainability** for LLM-assisted workflows
 - [**StatAgent**](https://github.com/NavidBroumandfar/statagent) — Statistical decision-support project for guiding **method selection, analysis, and interpretation** across classical and Bayesian workflows
