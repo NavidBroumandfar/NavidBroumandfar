@@ -36,10 +36,10 @@ public proof records.
 
 ## Public Proof Records
 
-Each record links a public NAVIDBR work page to its source repository. The work
-pages state the claim and boundary; the repositories provide inspectable source
-evidence. These are public proof records, not client claims or production
-deployment claims.
+Where a NAVIDBR work page exists, it states the claim and boundary while the
+repository provides inspectable source evidence. The standalone Evidence Loop
+project is an open-source reference implementation. These are public proof
+records, not client claims or production deployment claims.
 
 | NAVIDBR work record | Source evidence | Public signal |
 | --- | --- | --- |
@@ -47,6 +47,14 @@ deployment claims.
 | [AWS Bedrock CaseOps Control Tower](https://navidbr.me/work/bedrock-caseops-control-tower) | [Repository](https://github.com/NavidBroumandfar/bedrock-caseops-control-tower) | Grounded retrieval, citations, structured outputs, validation, and escalation boundaries. |
 | [Agent Behavior Evals Lab](https://navidbr.me/work/agent-behavior-evals-lab) | [Repository](https://github.com/NavidBroumandfar/agent-behavior-evals-lab) | Approval gates, refusal boundaries, uncertainty handling, traces, and quality gates. |
 | [E-commerce Purchase Intention MLOps](https://navidbr.me/work/ecommerce-purchase-intention-mlops) | [Repository](https://github.com/NavidBroumandfar/ecommerce-purchase-intention-mlops) | Reproducible ML workflow, evaluation, local serving, tests, and model-card notes. |
+| [Evidence Loop Visibility Engine](https://github.com/NavidBroumandfar/evidence-loop-visibility-engine) | [Repository and documentation](https://github.com/NavidBroumandfar/evidence-loop-visibility-engine) | Bounded Loop Engineering for evidence-first SEO, AEO, GEO, and LLMO proposals without autonomous publication or outcome claims. |
+
+## Repository Map
+
+- **Public proof records:** [Evidence Loop](https://github.com/NavidBroumandfar/evidence-loop-visibility-engine), [Agent Behavior Evals](https://github.com/NavidBroumandfar/agent-behavior-evals-lab), [Bedrock CaseOps](https://github.com/NavidBroumandfar/bedrock-caseops-control-tower), [Databricks CaseOps](https://github.com/NavidBroumandfar/databricks-caseops-lakehouse), and [Purchase Intention MLOps](https://github.com/NavidBroumandfar/ecommerce-purchase-intention-mlops)
+- **Evaluation and governance labs:** [Agent Behavior Evals](https://github.com/NavidBroumandfar/agent-behavior-evals-lab), [Agent Gate Demo](https://github.com/NavidBroumandfar/agent-gate-demo), and [OpenClaw Device Lab](https://github.com/NavidBroumandfar/openclaw-device-lab)
+- **Workflow, data, and ML tools:** [Agentic Excel Review Template](https://github.com/NavidBroumandfar/Agentic-Excel-Review-Template), [StatAgent](https://github.com/NavidBroumandfar/statagent), and the public proof records above
+- **External projects:** forks and upstream-derived repositories remain separate from NAVIDBR proof records
 
 ## Working Pattern
 
